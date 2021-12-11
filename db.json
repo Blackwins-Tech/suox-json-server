@@ -1,0 +1,80 @@
+{
+  "sugar_data": [
+    {
+      "id": 1,
+      "sugar_level": 480,
+      "sugar_taken_month": 12,
+      "sugar_taken_date": 4,
+      "sugar_taken_time": "Afternoon"
+    },
+    {
+      "id": 2,
+      "sugar_level": 320,
+      "sugar_taken_month": 12,
+      "sugar_taken_date": 5,
+      "sugar_taken_time": "Morning"
+    },
+    {
+      "id": 3,
+      "sugar_level": 580,
+      "sugar_taken_month": 12,
+      "sugar_taken_date": 5,
+      "sugar_taken_time": "Afternoon"
+    },
+    {
+      "id": 4,
+      "sugar_level": 575,
+      "sugar_taken_month": 12,
+      "sugar_taken_date": 5,
+      "sugar_taken_time": "evening"
+    },
+    {
+      "id": 5,
+      "sugar_level": 409,
+      "sugar_taken_month": 12,
+      "sugar_taken_date": 6,
+      "sugar_taken_time": "Morning"
+    },
+    {
+      "id": 6,
+      "sugar_level": 491,
+      "sugar_taken_month": 12,
+      "sugar_taken_date": 6,
+      "sugar_taken_time": "Afternoon"
+    }
+  ],
+  "oxygen_data": [
+    {
+      "id": 1,
+      "oxygen_level": 96,
+      "oxygen_taken_month": 12,
+      "oxygen_taken_date": 4,
+      "oxygen_taken_time": "Morning",
+      "bpm_value": 106
+    },
+    {
+      "id": 2,
+      "oxygen_level": 100,
+      "oxygen_taken_month": 12,
+      "oxygen_taken_date": 5,
+      "oxygen_taken_time": "Morning",
+      "bpm_value": 88
+    },
+    {
+      "id": 3,
+      "oxygen_level": 95,
+      "oxygen_taken_month": 12,
+      "oxygen_taken_date": 5,
+      "oxygen_taken_time": "Afternoon",
+      "bpm_value": 105
+    },
+    {
+      "id": 4,
+      "oxygen_level": 97,
+      "oxygen_taken_month": 12,
+      "oxygen_taken_date": 6,
+      "oxygen_taken_time": "Morning",
+      "bpm_value": 103
+    }
+  ]
+}

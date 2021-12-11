@@ -1,0 +1,17 @@
+{
+  "name": "node-http-server",
+  "version": "1.0.0",
+  "description": "Node.js example server starter project",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "serve-json": "json-server --watch db.json"
+  },
+  "dependencies": {
+    "json-server": "0.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
